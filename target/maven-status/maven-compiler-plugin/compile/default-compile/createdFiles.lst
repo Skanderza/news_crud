@@ -1,0 +1,14 @@
+com/philou/afpa_cda/controllers/ThemesController.class
+com/philou/afpa_cda/beans/Theme.class
+com/philou/afpa_cda/beans/News.class
+com/philou/afpa_cda/dao/DaoNews.class
+com/philou/afpa_cda/JAXRSConfiguration.class
+com/philou/afpa_cda/utils/ConnexionFactory.class
+com/philou/afpa_cda/controllers/TagsController.class
+com/philou/afpa_cda/resources/JavaEE8Resource.class
+com/philou/afpa_cda/dao/DaoTag.class
+com/philou/afpa_cda/controllers/NewsController.class
+com/philou/afpa_cda/beans/Tag.class
+com/philou/afpa_cda/dao/DaoTheme.class
+com/philou/afpa_cda/dao/Dao.class
+com/philou/afpa_cda/controllers/EntranceServlet.class
